@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/thailinh/Desktop/Desktop/Programs/LinhDemo/Library/CTLSDKDemo/DerivedData/Build/Products/Debug-iphonesimulator/CTLSDKDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CTLSDKDemo-Swift.h",
+          'external-contents': "/Users/thailinh/Desktop/Desktop/Programs/LinhDemo/Library/CTLSDKDemo/DerivedData/Build/Products/Debug-iphonesimulator/CTLSDKDemo.framework/Headers/CTLSDKDemo-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CTLSDKDemo.h",
+          'external-contents': "/Users/thailinh/Desktop/Desktop/Programs/LinhDemo/Library/CTLSDKDemo/CTLSDKDemo/CTLSDKDemo.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/thailinh/Desktop/Desktop/Programs/LinhDemo/Library/CTLSDKDemo/DerivedData/Build/Products/Debug-iphonesimulator/CTLSDKDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/thailinh/Desktop/Desktop/Programs/LinhDemo/Library/CTLSDKDemo/DerivedData/Build/Intermediates.noindex/CTLSDKDemo.build/Debug-iphonesimulator/CTLSDKDemo.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
